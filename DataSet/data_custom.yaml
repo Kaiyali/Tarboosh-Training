@@ -1,0 +1,6 @@
+train: C:\Users\Dan_i\IdeaProjects\TarbooshVision\DataSet\train
+val: C:\Users\Dan_i\IdeaProjects\TarbooshVision\DataSet\val
+
+nc: 1
+
+names: ["Sensor"]
